@@ -19,11 +19,10 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1ierro1ast&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--![1ierro1ast's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ierro1ast&count_private=true&show_icons=true&theme=dracula)
+![1ierro1ast's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ierro1ast&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ierro1ast&hide=ShaderLab,hlsl&theme=dracula&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ierro1ast&hide=ShaderLab,hlsl&theme=dracula&layout=compact)
 
 <!--
 **1ierro1ast/1ierro1ast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
