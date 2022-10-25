@@ -2,8 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ierro1ast&hide=ShaderLab,hlsl)
 
-![1ierro1ast's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1ierro1ast)
-
 <!--
 **1ierro1ast/1ierro1ast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
